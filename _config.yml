@@ -3,7 +3,7 @@ locale        : "en-US"
 site_theme    : "air"  # "default" | "air"
 title_separator: "-"
 name          : &name "Jane Shin"
-title         : "Jane Shin"
+title         : "Hello :)"
 description   : &description "Jane Shin's academic portfolio"
 url           : https://JaneS1028.github.io
 baseurl       : ""
