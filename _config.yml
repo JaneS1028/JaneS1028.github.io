@@ -12,7 +12,7 @@ timezone      : "Asia/Seoul"
 
 # Author (left sidebar)
 author:
-  avatar   : "profile.png"   # 예: /images/profile.png 로 쓰려면 경로만 바꾸세요
+  avatar   : "/신분증 신재인.JPG"   # 예: /images/profile.png 로 쓰려면 경로만 바꾸세요
   name     : "Jane Shin"
   bio      : "Master’s candidate in Management Engineering, KAIST College of Business"
   location : "South Korea"
