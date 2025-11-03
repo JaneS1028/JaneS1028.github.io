@@ -1,4 +1,39 @@
-// /* Hide the default Home link in the sidebar */
-// .sidebar .nav-item:first-child {
-//   display: none !important;
-// }
+/* Research cards */
+.research-entry {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding: 16px 18px;
+  margin: 14px 0;
+  border: 1px solid var(--border-color, rgba(0,0,0,.06));
+  position: relative;
+}
+
+.research-entry::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  background: var(--btn-border-color, #9aa0a6);
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.research-entry h3 {
+  margin: 0 0 6px;
+  font-size: 1.05rem;
+}
+
+.research-entry .meta {
+  margin: 0 0 8px;
+  color: var(--text-muted-color);
+  line-height: 1.4;
+}
+
+.research-entry .period {
+  font-weight: 600;
+}
+
+.research-entry ul {
+  margin: 8px 0 0 18px;
+}
