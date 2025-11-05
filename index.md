@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+icon: fas fa-user
 permalink: /
 ---
 
@@ -24,16 +25,14 @@ permalink: /
 
 **KAIST College of Business**, Seoul, South Korea  
 _M.S. in Management Engineering_ (Expected Graduation: Feb 2026)  
-**Advisor:** Professor Wonseok Oh  
-**Feb 2024 – Present**
+Feb 2024 – Present
 
 **Carnegie Mellon University**, Pittsburgh, United States  
 _AI Intensive Program, Visiting Scholar_  
 School of Computer Science, Software and Societal Systems Department (S3D)  
-**Jan 2025 – Jul 2025**
+Jan 2025 – Jul 2025
 
 **Korea University**, Seoul, South Korea  
 _B.A. in Business Administration_  
 Interdisciplinary Major in Brain and Cognitive Science  
-**GPA:** 4.24 / 4.5  
-**Mar 2019 – Aug 2023**
+Mar 2019 – Aug 2023
