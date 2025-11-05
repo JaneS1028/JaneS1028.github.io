@@ -22,7 +22,7 @@ permalink: /
 
 ---
 
-## 🎓 Education
+## Education
 
 **KAIST College of Business**, Seoul, South Korea  
 _M.S. in Management Engineering_ (Expected Graduation: Feb 2026)  
