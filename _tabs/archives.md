@@ -1,5 +1,5 @@
 ---
-layout: archives
+layout: page
 title: Life Archives
 icon: fas fa-archive
 order: 3
@@ -34,99 +34,29 @@ photos:
 
 <style>
   .life-archive { padding: 0.5rem 0; }
-  .filter-bar {
-    display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1rem 0;
-  }
+  .filter-bar { display:flex; flex-wrap:wrap; gap:.5rem; margin:0 0 1rem 0; }
   .filter-btn {
-    border: 1px solid #e5e7eb;
-    background: #fff;
-    border-radius: 999px;
-    padding: .4rem .9rem;
-    font-size: .9rem;
-    cursor: pointer;
-    transition: transform .15s ease, background .15s ease, color .15s ease;
+    border:1px solid #e5e7eb; background:#fff; border-radius:999px;
+    padding:.4rem .9rem; font-size:.9rem; cursor:pointer;
+    transition:transform .15s ease, background .15s ease, color .15s ease;
   }
-  .filter-btn[aria-pressed="true"] {
-    background: #111827;
-    color: #fff;
-  }
-  .filter-btn:focus-visible {
-    outline: 2px solid #3b82f6;
-    outline-offset: 2px;
-  }
-
-  .photo-grid {
-    display: grid;
-    gap: 1rem;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  }
-
+  .filter-btn[aria-pressed="true"] { background:#111827; color:#fff; }
+  .filter-btn:focus-visible { outline:2px solid #3b82f6; outline-offset:2px; }
+  .photo-grid { display:grid; gap:1rem; grid-template-columns:repeat(auto-fill, minmax(220px,1fr)); }
   .photo-card {
-    display: flex;
-    flex-direction: column;
-    background: #fff;
-    border-radius: 14px;
-    overflow: hidden;
-    box-shadow: 0 6px 18px rgba(0,0,0,.06);
-    transition: transform .18s ease, box-shadow .18s ease;
+    display:flex; flex-direction:column; background:#fff; border-radius:14px; overflow:hidden;
+    box-shadow:0 6px 18px rgba(0,0,0,.06); transition:transform .18s ease, box-shadow .18s ease;
   }
-
-  .photo-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 24px rgba(0,0,0,.10);
-  }
-
-  .photo-img-wrap {
-    aspect-ratio: 4/3;
-    overflow: hidden;
-    background: #f3f4f6;
-  }
-
-  .photo-img-wrap img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
-
-  .photo-meta {
-    padding: .8rem .9rem 1rem;
-  }
-
-  .photo-title {
-    margin: .2rem 0 .35rem;
-    font-weight: 700;
-    line-height: 1.25;
-  }
-
-  .photo-desc {
-    margin: 0;
-    color: #6b7280;
-    font-size: .92rem;
-  }
-
-  .photo-tags {
-    margin-top: .6rem;
-    display: flex;
-    gap: .4rem;
-    flex-wrap: wrap;
-  }
-
-  .tag-chip {
-    background: #f3f4f6;
-    color: #374151;
-    font-size: .75rem;
-    padding: .2rem .5rem;
-    border-radius: 999px;
-  }
-
-  .photo-date {
-    margin-left: auto;
-    font-size: .75rem;
-    color: #9ca3af;
-  }
-
-  [data-hidden="true"] { display: none !important; }
+  .photo-card:hover { transform:translateY(-2px); box-shadow:0 10px 24px rgba(0,0,0,.10); }
+  .photo-img-wrap { aspect-ratio:4/3; overflow:hidden; background:#f3f4f6; }
+  .photo-img-wrap img { width:100%; height:100%; object-fit:cover; display:block; }
+  .photo-meta { padding:.8rem .9rem 1rem; }
+  .photo-title { margin:.2rem 0 .35rem; font-weight:700; line-height:1.25; }
+  .photo-desc { margin:0; color:#6b7280; font-size:.92rem; }
+  .photo-tags { margin-top:.6rem; display:flex; gap:.4rem; flex-wrap:wrap; }
+  .tag-chip { background:#f3f4f6; color:#374151; font-size:.75rem; padding:.2rem .5rem; border-radius:999px; }
+  .photo-date { margin-left:auto; font-size:.75rem; color:#9ca3af; }
+  [data-hidden="true"] { display:none !important; }
 </style>
 
 <div class="life-archive">
@@ -136,7 +66,7 @@ photos:
     {% for f in _filters %}
       <button class="filter-btn" type="button"
               data-filter="{{ f | downcase }}"
-              aria-pressed="{{ f == 'all' | ternary: 'true','false' }}">
+              aria-pressed="{% if f == 'all' %}true{% else %}false{% endif %}">
         {{ f | capitalize }}
       </button>
     {% endfor %}
