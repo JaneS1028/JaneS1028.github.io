@@ -70,14 +70,8 @@ layout: default
 
           {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
 
-          {%- comment -%}
-            posts.html 과 동일하게 preview-img 클래스를 붙여서
-            Chirpy의 카드/커버용 이미지 CSS가 적용되도록 함
-          {%- endcomment -%}
-          {% capture img_class %}class="preview-img{% if post.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-
           <div class="col-md-5">
-            <img src="{{ src }}" {{ img_class }} alt="{{ alt }}" w="1200" h="630" {{ lqip_attr }}>
+            <img src="{{ src }}" alt="{{ alt }}" {{ lqip_attr }}>
           </div>
 
           {% assign card_body_col = '7' %}
