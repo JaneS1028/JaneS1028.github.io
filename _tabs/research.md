@@ -1,5 +1,5 @@
 ---
-layout: research_cards
+layout: home
 title: Research
 icon: fas fa-flask
 order: 2
