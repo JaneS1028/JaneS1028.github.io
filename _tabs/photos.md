@@ -32,10 +32,5 @@ order: 3
     <figcaption>WISE 2024</figcaption>
   </figure>
 
-  <figure>
-    <img src="/assets/img/pic_cmu.jpg" alt="Photo 6">
-    <figcaption>CMU Visiting Scholars</figcaption>
-  </figure>
-
   <!-- 필요하면 계속 추가 -->
 </div>
