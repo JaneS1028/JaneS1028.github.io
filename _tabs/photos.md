@@ -4,11 +4,23 @@ icon: fas fa-image
 order: 3
 ---
 
+# 📸 Photo Gallery
 
-Here are some of my favorite photos.
+<div class="photo-grid">
+  <figure>
+    <img src="/assets/img/pic.jpg" alt="Photo 1">
+    <figcaption>Summer 2024 – Pittsburgh</figcaption>
+  </figure>
 
-<div style="display:flex; gap:16px; flex-wrap:wrap;">
-  <img src="/assets/img/pic.jpg" width="260" style="border-radius:10px;">
-  <img src="/assets/img/pic.png" width="260" style="border-radius:10px;">
-  <img src="/assets/img/pic.jpg" width="260" style="border-radius:10px;">
+  <figure>
+    <img src="/assets/img/pic.jpg" alt="Photo 2">
+    <figcaption>KAIST Campus</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photos/pic.jpg" alt="Photo 3">
+    <figcaption>Carnegie Mellon SCS</figcaption>
+  </figure>
+
+  <!-- 필요하면 계속 추가 -->
 </div>
