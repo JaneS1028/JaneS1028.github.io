@@ -1,10 +1,11 @@
 ---
-title: "Photos"
+title: "Life Photos"
 icon: fas fa-image
 order: 3
+sidebar: false
 ---
 
-# 📸 Photo Gallery
+## 📸 A few snapshots from my life!
 
 <div class="photo-grid">
   <figure>
