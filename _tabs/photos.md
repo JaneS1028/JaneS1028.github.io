@@ -33,7 +33,7 @@ order: 3
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_award_2.jpeg" alt="Photo 5">
+    <img src="/assets/img/pic_award_2.jpg" alt="Photo 6">
     <figcaption>KMIS Award Ceremony</figcaption>
   </figure>
 
