@@ -40,7 +40,7 @@ sidebar: false
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_conf_2.jpeg" alt="Photo 7">
+    <img src="/assets/img/pic_conf_2.jpg" alt="Photo 7">
     <figcaption>WISE 2024</figcaption>
   </figure>
 
