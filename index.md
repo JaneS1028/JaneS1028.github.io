@@ -24,16 +24,16 @@ permalink: /
 
 ## Education
 
-**KAIST College of Business**, Seoul, South Korea  
+**KAIST College of Business**
 _M.S. in Management Engineering_ (Expected Graduation: Feb 2026)  
 Feb 2024 – Present
 
-**Carnegie Mellon University**, Pittsburgh, United States  
+**Carnegie Mellon University**
 _AI Intensive Program, Visiting Scholar_  
-School of Computer Science, Software and Societal Systems Department (S3D)  
+School of Computer Science
 Jan 2025 – Jul 2025
 
-**Korea University**, Seoul, South Korea  
+**Korea University**
 _B.A. in Business Administration_  
 Interdisciplinary Major in Brain and Cognitive Science  
 Mar 2019 – Aug 2023
