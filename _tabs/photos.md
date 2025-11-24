@@ -33,7 +33,7 @@ order: 3
   </figure>
 
   <figure>
-    <img src="/assets/img/cmu.jpg" alt="Photo 6">
+    <img src="/assets/img/pic_cmu.jpg" alt="Photo 6">
     <figcaption>CMU Visiting Scholars</figcaption>
   </figure>
 
