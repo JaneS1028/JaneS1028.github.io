@@ -23,13 +23,18 @@ order: 3
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_award.jpg" alt="Photo 4">
+    <img src="/assets/img/pic_award_3.jpg" alt="Photo 4">
     <figcaption>KMIS Best Paper Award</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/img/pic_conf_2.jpg" alt="Photo 5">
     <figcaption>WISE 2024</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/pic_award" alt="Photo 6">
+    <figcaption>KMIS 2025 Awards Ceremony</figcaption>
   </figure>
 
   <!-- 필요하면 계속 추가 -->
