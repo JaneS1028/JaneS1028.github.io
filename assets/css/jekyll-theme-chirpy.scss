@@ -13,3 +13,34 @@
   background: none !important;
   animation: none !important;
 }
+
+/* append your custom style below */
+
+.photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 1rem;
+}
+
+/* 각 사진 카드 */
+.photo-grid figure {
+  margin: 0;
+  flex: 1 1 250px;  /* 최소 250px 너비로 반응형 정렬 */
+  max-width: 320px;
+}
+
+/* 실제 이미지 스타일 */
+.photo-grid img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+/* 캡션(사진 설명) */
+.photo-grid figcaption {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
