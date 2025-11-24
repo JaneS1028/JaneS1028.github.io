@@ -28,14 +28,18 @@ order: 3
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_conf_2.jpg" alt="Photo 5">
+    <img src="/assets/img/pic_conf_2.jpeg" alt="Photo 5">
     <figcaption>WISE 2024</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_award" alt="Photo 6">
-    <figcaption>KMIS 2025 Awards Ceremony</figcaption>
+    <img src="/assets/img/pic_award_2.jpeg" alt="Photo 5">
+    <figcaption>KMIS Award Ceremony</figcaption>
   </figure>
 
+  <figure>
+    <img src="/assets/img/pic_sports.jpg" alt="Photo 6">
+    <figcaption>Badminton at CMU</figcaption>
+  </figure>
   <!-- 필요하면 계속 추가 -->
 </div>
