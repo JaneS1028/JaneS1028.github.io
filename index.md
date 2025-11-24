@@ -25,7 +25,7 @@ permalink: /
 ## Education
 
 **KAIST College of Business**  
-_M.S. in Management Engineering_ (Expected Graduation: Feb 2026)  
+_Master of Science in Management Engineering_ (Expected Graduation: Feb 2026)  
 Feb 2024 – Present
 
 **Carnegie Mellon University**  
@@ -34,6 +34,6 @@ School of Computer Science
 Jan 2025 – Jul 2025
 
 **Korea University**  
-_B.A. in Business Administration_  
+_Bachelor of Business Administration_  
 Interdisciplinary Major in Brain and Cognitive Science  
 Mar 2019 – Aug 2023
