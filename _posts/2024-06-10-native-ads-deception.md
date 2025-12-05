@@ -5,7 +5,7 @@ categories: [Research]
 tags: [ads, embeddings]
 ---
 <img 
-  src="/assets/img/pic_AIGC_final.png" 
+  src="/assets/img/pic_native_ad.png" 
   style="width:100%; height:300px; object-fit:cover; border-radius:12px;"
 />
 
