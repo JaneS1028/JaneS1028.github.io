@@ -27,7 +27,7 @@ permalink: /
 ## Education
 
 **KAIST College of Business**  
-_Master of Science in Management Engineering_ 
+_Master of Science in Management Engineering_  
 Feb 2024 – Feb 2026 (Expected)
 
 **Carnegie Mellon University**  
