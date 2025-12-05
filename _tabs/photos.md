@@ -1,7 +1,7 @@
 ---
 title: "Life Photos"
 icon: fas fa-image
-order: 3
+order: 4
 sidebar: false
 ---
 
