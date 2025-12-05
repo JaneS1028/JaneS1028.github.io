@@ -14,7 +14,7 @@ permalink: /
       Outside of research, I enjoy playing sports and exploring museums.
     </p>
     <p>
-      <a class="btn" href="mailto:janeshin@kaist.ac.kr">Email</a>
+      <a class="btn" href="mailto:janeshin@kaist.ac.kr">janeshin@kaist.ac.kr</a>
       <a class="btn" href="https://www.linkedin.com/in/jane-shin-9ba713218/" target="_blank" rel="noopener">LinkedIn</a>
       <a class="btn" href="/assets/Jane_Shin_CV.pdf" target="_blank" rel="noopener">CV</a>
     </p>
