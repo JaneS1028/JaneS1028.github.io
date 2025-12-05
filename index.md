@@ -27,12 +27,12 @@ permalink: /
 ## Education
 
 **KAIST College of Business**  
-_Master of Science in Management Engineering_ (Expected Graduation: Feb 2026)  
-Feb 2024 – Present
+_Master of Science in Management Engineering_ 
+Feb 2024 – Feb 2026 (Expected)
 
 **Carnegie Mellon University**  
 _AI Intensive Program, Visiting Scholar_  
-School of Computer Science
+School of Computer Science  
 Jan 2025 – Jul 2025
 
 **Korea University**  
