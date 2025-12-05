@@ -10,7 +10,8 @@ permalink: /
     <p>
       Hello:) Welcome to my website. I am a master’s student in Management Engineering at <strong>KAIST</strong>. 
       I recently completed a visiting program at <strong>Carnegie Mellon University’s AI Intensive Program</strong>. 
-      My research interests lie in the <strong>Economics of IT</strong>, <strong>AI Governance</strong>, and <strong>Privacy</strong>.
+      My research interests lie in the <strong>Economics of IT</strong>, <strong>AI Governance</strong>, and <strong>Privacy</strong>. 
+      Outside of research, I enjoy playing sports and exploring museums.
     </p>
     <p>
       <a class="btn" href="mailto:janeshin@kaist.ac.kr">Email</a>
@@ -19,6 +20,7 @@ permalink: /
     </p>
   </div>
 </div>
+
 
 ---
 
