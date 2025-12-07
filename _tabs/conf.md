@@ -7,7 +7,7 @@ sidebar: false
 
 
 
-## 2025
+### 2025
 
 ### Workshop on Information Systems and Economics (WISE) 2025, United States *(Scheduled)*
 - Topic: *“Regulating AIGC: When do Restrictions Spark or Stifle Community Dynamics?”*  (with Suhyoen Lee, Professor Donghyuk Shin)
@@ -21,7 +21,7 @@ sidebar: false
 
 ---
 
-## 2024
+### 2024
 
 ### Workshop on Information Systems and Economics (WISE) 2024, Thailand
 - Topic: *“Economics of Deception and Privacy in Native Online Advertising”*  (with Seowoo Genevieve Ko, Professor Wonseok Oh)
