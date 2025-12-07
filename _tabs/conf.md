@@ -12,11 +12,12 @@ sidebar: false
 ### Workshop on Information Systems and Economics (WISE), United States *(Scheduled)*
 - **Presenter** (Dec. 2025)
 - Topic: *“Regulating AIGC: When do Restrictions Spark or Stifle Community Dynamics?”*  (with Suhyoen Lee, Professor Donghyuk Shin)
-
+- _Nominated for Best Student Paper Award_
+  
 ### The Korea Society of Management Information Systems (KMIS), South Korea
 - **Presenter** (Nov. 2025)
 - Topic: *“Regulating AIGC: When do Restrictions Spark or Stifle Community Dynamics?”*  (with Suhyoen Lee, Professor Donghyuk Shin)
-- Best Paper Award
+- _Best Paper Award_
 
 ---
 
