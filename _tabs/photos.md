@@ -20,7 +20,7 @@ sidebar: false
 
   <figure>
     <img src="/assets/img/pic_its.jpg" alt="Photo 3">
-    <figcaption>ITS community</figcaption>
+    <figcaption>KU ITS community</figcaption>
   </figure>
 
   <figure>
