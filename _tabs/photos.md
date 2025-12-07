@@ -14,7 +14,7 @@ sidebar: false
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_caseit_jpg" alt="Photo 2">
+    <img src="/assets/img/pic_caseit.jpg" alt="Photo 2">
     <figcaption>Case IT Competition at SFU</figcaption>
   </figure>
 
