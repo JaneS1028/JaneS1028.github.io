@@ -14,43 +14,48 @@ sidebar: false
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_conf.jpg" alt="Photo 2">
-    <figcaption>KMIS 2025</figcaption>
+    <img src="/assets/img/pic_caseit_jpg" alt="Photo 2">
+    <figcaption>Case IT Competition at SFU</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_cmu.jpg" alt="Photo 3">
-    <figcaption>Visiting Scholars at CMU</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/pic_cmu_cap.jpg" alt="Photo 4">
-    <figcaption>Capstone Project</figcaption>
-  </figure>
-
-
-  <figure>
-    <img src="/assets/img/pic_cmu_grad.jpg" alt="Photo 5">
-    <figcaption>CMU Commencement</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/pic_award_2.jpg" alt="Photo 6">
-    <figcaption>KMIS Best Paper Award</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/pic_conf_2.jpg" alt="Photo 7">
+    <img src="/assets/img/pic_conf_2.jpg" alt="Photo 3">
     <figcaption>WISE 2024</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_award.jpg" alt="Photo 8">
+    <img src="/assets/img/pic_cmu.jpg" alt="Photo 4">
+    <figcaption>Visiting Scholars at CMU</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/pic_cmu_cap.jpg" alt="Photo 5">
+    <figcaption>Capstone Project</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/pic_cmu_grad.jpg" alt="Photo 6">
+    <figcaption>CMU Commencement</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/img/pic_conf.jpg" alt="Photo 7">
+    <figcaption>KMIS 2025</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/img/pic_award_2.jpg" alt="Photo 8">
+    <figcaption>KMIS Best Paper Award</figcaption>
+  </figure>
+
+
+  <figure>
+    <img src="/assets/img/pic_award.jpg" alt="Photo 9">
     <figcaption>KMIS Award Ceremony</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/img/pic_sports.jpg" alt="Photo 9">
+    <img src="/assets/img/pic_sports.jpg" alt="Photo 10">
     <figcaption>Badminton at CMU</figcaption>
   </figure>
   <!-- 필요하면 계속 추가 -->
